@@ -1,0 +1,46 @@
+
+.container{
+background-color: rgb(235, 221, 32);
+border-radius: 5px;
+width: 500px;
+text-align: center;
+margin: auto;
+padding: 35px;
+margin-bottom: 12px;
+
+}
+.ddb{
+  margin-top: 50px;
+  border-radius: 40px;
+  box-shadow: 23px;
+  background-color: rgb(203, 206, 34);
+  /* background-size: cover; */
+  /* background-position: center; */
+  width: 160px;
+  margin: auto;
+  /* padding-top: 12px; */
+}
+
+.ddb a {
+  text-decoration: none;
+  font-weight: bold;
+  margin: auto;
+  /* padding-top: 12px; */
+/* width: 100px; */
+
+}
+.ddb a:hover{
+  color: rgb(188, 172, 48);
+
+}
+
+.bodyy{
+  background-color: rgb(123, 159, 159);
+  background-image: url("https://www.meme-arsenal.com/memes/5c0c323160879ff72ca414569bc0c170.jpg");
+  background-size: contain;
+}
+
+.gg{
+
+  background-color: aqua;
+}
